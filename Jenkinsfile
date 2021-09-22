@@ -5,7 +5,7 @@ pipeline {
 
     tools {
         maven 'mvn-3.5.4'
-        jdk 'jdk-8u181'
+     // jdk 'jdk-8u181'
     }
 
     stages {
